@@ -4,3 +4,4 @@ django-jazzmin==3.0.1
 django-solo==2.4.0
 pillow==11.0.0
 sqlparse==0.5.3
+whitenoise==6.8.2
